@@ -1,4 +1,4 @@
-from levantar_espectro_rafa import spectro
+from linsis.py import spectro
 import pytest
 
 class Test_Load_spectrum():
